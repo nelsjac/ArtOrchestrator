@@ -1,0 +1,58 @@
+{
+	"title": "",
+	"medium": "",
+	"classification": "Paintings",
+	"genre": "",
+	"movement": "", 
+	"period": "",
+	"culture": "France",
+	"constituents": [ 
+        {
+            "role": "painter | designer | maker | artist",
+			"name": "person blah",
+			"ulanRoleId": "",
+			"ulanSubjectId": "",
+            "person": "ref(person)"
+        }
+
+	],
+	"sourceMetadata": {
+		"sourceId": "45734",
+		"accessionNumber": "36.100.45",
+    	"accessionYear": "1936",
+    	"sourceUrl": "https://www.metmuseum.org/art/collection/search/45734",
+    	"department": "ref(department)",
+    	"roomNumber": ""
+	},
+	"images": [],
+	"publicDomain": "true | false",
+	"dimensionText": "",
+	"measurements": [
+        {
+            "type": "Overall",
+            "description": null,
+            "dimensions": {
+                "height": 118.4,
+                "width": 47.6,
+                "unit": "in | cm | ft | m"
+            }
+        }
+	],
+	"provenanceText": "",
+	"displayText": "",
+	"geodata": {
+        "city": "string",
+        "state": "string",
+        "country": "string",
+        "region": "string",
+        "subregion": "string",
+        "continent": "string"
+    }, 
+	"tags": [
+       {
+            "term": "Birds",
+            "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+            "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+        }
+	]
+}

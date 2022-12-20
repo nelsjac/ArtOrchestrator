@@ -1,0 +1,161 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "title": {
+        "type": "string"
+      },
+      "medium": {
+        "type": "string"
+      },
+      "classification": {
+        "type": "string"
+      },
+      "dimension": {
+        "type": "string"
+      },
+      "object_name": {
+        "type": "string"
+      },
+      "continent": {
+        "type": "string"
+      },
+      "country": {
+        "type": "string"
+      },
+      "culture": {
+        "type": "null"
+      },
+      "dated": {
+        "type": "string"
+      },
+      "room": {
+        "type": "string"
+      },
+      "style": {
+        "type": "string"
+      },
+      "inscription": {
+        "type": "string"
+      },
+      "signed": {
+        "type": "string"
+      },
+      "markings": {
+        "type": "string"
+      },
+      "text": {
+        "type": "string"
+      },
+      "description": {
+        "type": "string"
+      },
+      "provenance": {
+        "type": "string"
+      },
+      "portfolio": {
+        "type": "string"
+      },
+      "creditline": {
+        "type": "string"
+      },
+      "accession_number": {
+        "type": "string"
+      },
+      "artist": {
+        "type": "string"
+      },
+      "role": {
+        "type": "string"
+      },
+      "nationality": {
+        "type": "string"
+      },
+      "life_date": {
+        "type": "string"
+      },
+      "image_copyright": {
+        "type": "string"
+      },
+      "department": {
+        "type": "string"
+      },
+      "rights_type": {
+        "type": "string"
+      },
+      "image": {
+        "type": "string"
+      },
+      "image_width": {
+        "type": "integer"
+      },
+      "image_height": {
+        "type": "integer"
+      },
+      "restricted": {
+        "type": "integer"
+      },
+      "public_access": {
+        "type": "string"
+      },
+      "curator_approved": {
+        "type": "integer"
+      },
+      "catalogue_raissonne": {
+        "type": "null"
+      },
+      "art_champions_text": {
+        "type": "null"
+      },
+      "see_also": {
+        "type": "array",
+        "items": [
+          {
+            "type": "string"
+          }
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "title",
+      "medium",
+      "classification",
+      "dimension",
+      "object_name",
+      "continent",
+      "country",
+      "culture",
+      "dated",
+      "room",
+      "style",
+      "inscription",
+      "signed",
+      "markings",
+      "text",
+      "description",
+      "provenance",
+      "portfolio",
+      "creditline",
+      "accession_number",
+      "artist",
+      "role",
+      "nationality",
+      "life_date",
+      "image_copyright",
+      "department",
+      "rights_type",
+      "image",
+      "image_width",
+      "image_height",
+      "restricted",
+      "public_access",
+      "curator_approved",
+      "catalogue_raissonne",
+      "art_champions_text",
+      "see_also"
+    ]
+  }
